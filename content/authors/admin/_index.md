@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Post-doctral Research Fellow
+role: Post-doctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yan Kai is a post-doctoral research fellow at the Dana-Farber Cancer Institute and Harvard University. Yan's research is focused on integrating multi-dimensional data (e.g. ChIP-seq, Cut&Run, ATAC-seq, scRNA-seq, Hi-ChIP et.al) and developing novel computational methods to decipher the gene regulation mechanisms during development and in diseases such as cancer.
