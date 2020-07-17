@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*Nature Communications*"
-tags: ["3D genome organization", "CTCF", "Loops", "Insulator", "Super-Enhancer"]
+tags: ["3D genome organization", "CTCF", "Loops", "Insulator", "Super-Enhancer", "machine learning"]
 url_code: "https://github.com/ykai16/Lollipop"
 url_paper: "https://www.nature.com/articles/s41467-018-06664-6.pdf"
 ---
