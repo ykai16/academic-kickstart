@@ -12,4 +12,7 @@ view: 1
 header:
   caption: ""
   image: ""
+
+authors:
+  - Yan Kai
 ---
