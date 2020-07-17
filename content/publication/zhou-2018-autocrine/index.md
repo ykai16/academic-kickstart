@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Oncogene*"
+tags: ["Drug resistance", "Ovarian cancer"]
+url_pubmed: "https://pubmed.ncbi.nlm.nih.gov/29662190/"
 ---
-

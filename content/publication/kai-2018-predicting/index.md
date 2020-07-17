@@ -9,5 +9,5 @@ featured: true
 publication: "*Nature Communications*"
 tags: ["3D genome organization", "CTCF", "Loops", "Insulator", "Super-Enhancer"]
 url_code: "https://github.com/ykai16/Lollipop"
-url_link: "https://www.nature.com/articles/s41467-018-06664-6.pdf"
+url_paper: "https://www.nature.com/articles/s41467-018-06664-6.pdf"
 ---

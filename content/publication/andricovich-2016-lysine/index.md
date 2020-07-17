@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Experimental hematology*"
+tags: ["KDM2B", "Leukemia", "Blood", "Genomics", "Epigenomics"]
+url_pubmed: "https://pubmed.ncbi.nlm.nih.gov/27208808/"
 ---
-

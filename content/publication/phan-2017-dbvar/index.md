@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*F1000Research*"
+tags: ["Structural variants", "Data integration"]
+url_pubmed: "dbVar structural variant cluster set for data analysis and variant comparison"
 ---
-
