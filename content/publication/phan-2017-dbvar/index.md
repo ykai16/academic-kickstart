@@ -8,5 +8,5 @@ abstract: ""
 featured: false
 publication: "*F1000Research*"
 tags: ["Structural variants", "Data integration"]
-url_pubmed: "dbVar structural variant cluster set for data analysis and variant comparison"
+url_custom: [{name = "Pubmed", url = "https://pubmed.ncbi.nlm.nih.gov/28357035/"}]
 ---

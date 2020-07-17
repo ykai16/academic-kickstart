@@ -8,5 +8,5 @@ abstract: ""
 featured: false
 tags: ["Loops", "Super-Enhancer", "Epigenomics", "KDM6A", "3D genome organization", "Pancreatic cancer"]
 publication: "*Cancer cell*"
-url_pubmed: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854186/"
+url_custom: [{name = "Pubmed", url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854186/"}]
 ---

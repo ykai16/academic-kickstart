@@ -8,5 +8,5 @@ abstract: ""
 featured: false
 publication: "*JCI insight*"
 tags: ["secretome", "screening", "Lung cancer", "expression specificity", "NDNF", "DNA methylation"]
-url_pubmed: "https://pubmed.ncbi.nlm.nih.gov/31852841/"
+url_custom: [{name = "Pubmed", url = "https://pubmed.ncbi.nlm.nih.gov/31852841/"}]
 ---

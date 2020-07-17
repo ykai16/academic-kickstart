@@ -8,5 +8,5 @@ abstract: ""
 featured: false
 publication: "*Oncogene*"
 tags: ["Drug resistance", "Ovarian cancer"]
-url_pubmed: "https://pubmed.ncbi.nlm.nih.gov/30166592/"
+url_custom: [{name = "Pubmed", url = "https://pubmed.ncbi.nlm.nih.gov/30166592/"}]
 ---

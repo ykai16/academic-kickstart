@@ -7,8 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Nature Communications*"
-pdf: "http://dx.doi.org/10.1038/s41467-020-16589-8"
-doi: "10.1038/s41467-020-16589-8"
 tags: ["BAP1", "Epigenomics", "pancreatic cancer", "Super-Enhancer"]
-pubmed: "https://pubmed.ncbi.nlm.nih.gov/32541668/"
+url_custom: [{name = "Pubmed", url = "https://pubmed.ncbi.nlm.nih.gov/32541668/"}]
 ---

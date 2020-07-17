@@ -7,5 +7,5 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Clinical Investigation*"
+url_custom: [{name = "Pubmed", url = "https://pubmed.ncbi.nlm.nih.gov/26808549/"}]
 ---
-

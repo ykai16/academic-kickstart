@@ -8,5 +8,5 @@ abstract: ""
 featured: false
 publication: "*Cancer Letters*"
 tags: ["Drug resistance", "Ovarian cancer"]
-url_pubmed: "https://pubmed.ncbi.nlm.nih.gov/29704517/"
+url_custom: [{name = "Pubmed", url = "https://pubmed.ncbi.nlm.nih.gov/29704517/"}]
 ---
