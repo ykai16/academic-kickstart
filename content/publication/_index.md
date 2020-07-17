@@ -13,6 +13,4 @@ header:
   caption: ""
   image: ""
 
-authors:
-  - Yan Kai
 ---
