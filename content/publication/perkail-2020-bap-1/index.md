@@ -8,5 +8,5 @@ abstract: ""
 featured: false
 publication: "*Nature Communications*"
 tags: ["BAP1", "Epigenomics", "pancreatic cancer", "Super-Enhancer"]
-url_custom: [{name = "Pubmed", url = "https://pubmed.ncbi.nlm.nih.gov/32541668/"}]
+doi: "10.1038/s41467-020-16589-8"
 ---
