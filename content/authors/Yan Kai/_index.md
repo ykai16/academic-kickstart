@@ -4,7 +4,7 @@ title: Yan Kai
 
 # Username (this should match the folder name)
 authors:
-- Yan Kai
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,8 +22,8 @@ bio: Computational biology
 
 interests:
 - Gene regulation
-- 3D genomics
 - Single-cell omics
+- 3D genomics
 
 education:
   courses:
