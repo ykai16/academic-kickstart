@@ -31,13 +31,9 @@
   to = "https://ykai.me"
   status = 301
   force = true
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
 
 [[redirects]]
   from = "http://yankai.netlify.app"
   to = "https://ykai.me"
   status = 301
   force = true
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
