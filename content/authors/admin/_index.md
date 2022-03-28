@@ -22,8 +22,8 @@ bio: Computational biology
 
 interests:
 - Gene regulation
+- Epigenetics
 - 3D genomics
-- Single-cell omics
 
 education:
   courses:
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Yan Kai is a post-doctoral research fellow at the Dana-Farber Cancer Institute and Harvard University. Yan's research is focused on integrating multi-dimensional data (e.g. ChIP-seq, Cut&Run, ATAC-seq, scRNA-seq, Hi-ChIP etc) and developing novel computational methods to decipher the gene regulation mechanisms during development and in diseases such as cancer.
+Yan Kai is a post-doctoral research fellow at the Dana-Farber Cancer Institute and Harvard University. Yan's research is focused on making sense of biological data by integrating omics data from different modalities (e.g. ChIP-seq, Cut&Run, ATAC-seq, scRNA-seq, Hi-ChIP etc) and developing novel computational methods to decipher the gene regulation mechanisms during development and in diseases such as cancer.
