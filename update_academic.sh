@@ -25,14 +25,15 @@ function do_update () {
   # Apply any updates
   git submodule update --remote --merge
 
-  # - Update Netlify.toml with required Hugo version
-  if [ -f ./netlify.toml ]; then
-    # Postfix '.0' to Hugo min_version as sadly it doesn't map to a precise semantic version.
-    version=$(sed -n 's/^min_version = //p' themes/academic/theme.toml | tr -d '"')
-    version="${version}.0"
-    echo "Set Netlify Hugo version to v${version}"
-    sed -i.bak -e "s/HUGO_VERSION = .*/HUGO_VERSION = \"$version\"/g" ./netlify.toml && rm -f ./netlify.toml.bak
-  fi
+  # - Update Netlify.toml with required Hugo version 
+  # toggled this block for testing
+  # if [ -f ./netlify.toml ]; then
+  #   # Postfix '.0' to Hugo min_version as sadly it doesn't map to a precise semantic version.
+  #   version=$(sed -n 's/^min_version = //p' themes/academic/theme.toml | tr -d '"')
+  #   version="${version}.0"
+  #   echo "Set Netlify Hugo version to v${version}"
+  #   sed -i.bak -e "s/HUGO_VERSION = .*/HUGO_VERSION = \"$version\"/g" ./netlify.toml && rm -f ./netlify.toml.bak
+  # fi
 
   echo
   echo "View the release notes at: https://sourcethemes.com/academic/updates"
