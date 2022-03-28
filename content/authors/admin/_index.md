@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ykai@jimmy.harvard.edu"
+email: "yan_kai@dfci.harvard.edu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Yan Kai is a post-doctoral research fellow at the Dana-Farber Cancer Institute and Harvard University. Yan's research is focused on making sense of biological data by integrating omics data from different modalities (e.g. ChIP-seq, Cut&Run, ATAC-seq, scRNA-seq, Hi-ChIP etc) and developing novel computational methods to decipher the gene regulation mechanisms during development and in diseases such as cancer.
+Yan Kai is a post-doctoral research fellow at the Dana-Farber Cancer Institute and Harvard University. Yan's research is focused on integrating omics data from different modalities (e.g. ChIP-seq, Cut&Run, ATAC-seq, scRNA-seq, Hi-ChIP etc) and developing novel computational methods to decipher the gene regulation mechanisms during development and in diseases such as cancer.
